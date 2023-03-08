@@ -49,9 +49,9 @@
 0.0.0.0 tolerance.org
 0.0.0.0 trans-academics.org
 0.0.0.0 wpath.org
-0.0.0.0 www.lgbtqnation.com
-0.0.0.0 www.them.us
-0.0.0.0 www.out.com
+0.0.0.0 lgbtqnation.com
+0.0.0.0 them.us
+0.0.0.0 out.com
 0.0.0.0 washingtonblade.com
 0.0.0.0 altrui.org
 0.0.0.0 pointfoundation.org
