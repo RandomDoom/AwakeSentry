@@ -95,3 +95,5 @@
 0.0.0.0 www.gaytimes.co.uk
 0.0.0.0 www.thepinknews.com
 0.0.0.0 www.sgn.org
+0.0.0.0 www.pinknews.com
+0.0.0.0 pinknews.com
