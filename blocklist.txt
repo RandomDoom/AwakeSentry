@@ -28,7 +28,7 @@
 0.0.0.0 familypride.org
 0.0.0.0 glma.org
 0.0.0.0 freedomtomarry.org
-0.0.0.0 https:www.glsen.org
+0.0.0.0 glsen.org
 0.0.0.0 gayparentmag.com
 0.0.0.0 gender.org
 0.0.0.0 ifge.org
@@ -64,7 +64,7 @@
 0.0.0.0 www.familypride.org
 0.0.0.0 www.glma.org
 0.0.0.0 www.freedomtomarry.org
-0.0.0.0 www.https:www.glsen.org
+0.0.0.0 www.glsen.org
 0.0.0.0 www.gayparentmag.com
 0.0.0.0 www.gender.org
 0.0.0.0 www.ifge.org
@@ -85,9 +85,9 @@
 0.0.0.0 www.tolerance.org
 0.0.0.0 www.trans-academics.org
 0.0.0.0 www.wpath.org
-0.0.0.0 www.www.lgbtqnation.com
-0.0.0.0 www.www.them.us
-0.0.0.0 www.www.out.com
+0.0.0.0 www.lgbtqnation.com
+0.0.0.0 www.them.us
+0.0.0.0 www.out.com
 0.0.0.0 www.washingtonblade.com
 0.0.0.0 www.altrui.org
 0.0.0.0 www.pointfoundation.org
