@@ -16,3 +16,4 @@
 @@|*-*-*-*.greatamericanfamily.com^$important
 @@|*-*-*-*.nintendo.net^$important
 @@|*-*-*-*.nintendo.com^$important
+@@|mask.icloud.com^important
