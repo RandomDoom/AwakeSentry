@@ -12,8 +12,8 @@
 #
 # Safety list
 # ------------------------------------[FILTERS]-------------------------------------
-@@|*-*-*-*.pureflix.com^$important
-@@|*-*-*-*.greatamericanfamily.com^$important
-@@|*-*-*-*.nintendo.net^$important
-@@|*-*-*-*.nintendo.com^$important
-@@|*-*-*-*.applicaster.com^$important
+@@|*.pureflix.com^$important
+@@|*.greatamericanfamily.com^$important
+@@|*.nintendo.net^$important
+@@|*.nintendo.com^$important
+@@|*.applicaster.com^$important
