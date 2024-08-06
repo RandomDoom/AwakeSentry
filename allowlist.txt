@@ -3,7 +3,7 @@
 # Expires: 1 day
 # Homepage: https://github.com/RandomDoom/AwakeSentry
 # License: GNU General Public License v3.0
-# Total number of network filters: 226
+# Total number of network filters: 5
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
